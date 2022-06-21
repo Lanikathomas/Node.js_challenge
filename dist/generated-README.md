@@ -49,6 +49,6 @@
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/mjgiannelli)
+  [GitHub](https://github.com/Lanikathomas)
 
-  [Email: giannellimj@gmail.com](mailto:giannellimj@gmail.com)
+  [Email: Lanika_thomas723@yahoo.com.com](mailto:Lanika_thomas723@yahoo.com)
