@@ -1,21 +1,4 @@
-
-  # Professional-README-Generator
-  
-   
-
-  ## Table-of-Contents
-
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-   
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
-  ## [Description](#table-of-contents)
-
-  My project is a README generator. The project will help a user generate a README without having to worry about applying proper mark down syntax.
+My project is a README generator. The project will help a user generate a README without having to worry about applying proper mark down syntax.
 
   One problem with most projects is that the README is overlooked. This could be because the developer is lazy and doesn't want to include it or they haven't mastered down the proper syntax to creating a README. Also they possibly don't have a good idea of what to include with the README.
 
